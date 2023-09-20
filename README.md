@@ -3,7 +3,7 @@
 
 - 👾 Olá meu nome é Sarah e atualmente sou Front-end, mas pretendo me tornar Fullstack em breve.
 - 🍃 Me aprofundando em **Angular + Spring Boot** e **React**.
-- 😎 Pronomes: Ela/Delas.
+- 😎 Pronomes: Ela/Dela.
 - 🫀 No meu tempo livre gosto de ouvir música e assistir/ler coisas do gênero de terror.
 
 
@@ -23,7 +23,6 @@
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-santana-de-morais-1a2aaa277/) 
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SarahSSM1?tab=repositories)
 [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarah.santana.morais1@gmail.com?subject=&body=)
 
 
